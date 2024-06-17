@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Who is the current Prime Minister of India?",
+      "choices": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+      "answer": "Narendra Modi"
+    },
+    {
+      "question": "Which Indian state launched the 'One Nation One Ration Card' scheme?",
+      "choices": ["Maharashtra", "Tamil Nadu", "Uttar Pradesh", "Kerala"],
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question": "What is the name of the Indian spacecraft that recently landed on the moon?",
+      "choices": ["Chandrayaan-1", "Chandrayaan-2", "Mangalyaan", "Gaganyaan"],
+      "answer": "Chandrayaan-2"
+    },
+    {
+      "question": "Who is the current President of India?",
+      "choices": ["Ram Nath Kovind", "Pranab Mukherjee", "Droupadi Murmu", "Venkaiah Naidu"],
+      "answer": "Droupadi Murmu"
+    },
+    {
+      "question": "Which Indian city hosted the 2023 G20 Summit?",
+      "choices": ["New Delhi", "Mumbai", "Bangalore", "Hyderabad"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "What is the name of the new Indian cryptocurrency launched by the government?",
+      "choices": ["Digital Rupee", "Crypto Rupee", "E-Rupee", "BharatCoin"],
+      "answer": "Digital Rupee"
+    },
+    {
+      "question": "Which Indian state recently passed the anti-conversion law?",
+      "choices": ["Uttarakhand", "Karnataka", "Madhya Pradesh", "Assam"],
+      "answer": "Uttarakhand"
+    },
+    {
+      "question": "Who won the 2024 Indian Premier League (IPL)?",
+      "choices": ["Mumbai Indians", "Chennai Super Kings", "Delhi Capitals", "Kolkata Knight Riders"],
+      "answer": "Kolkata Knight Riders"
+    },
+    {
+      "question": "Which Indian startup became a unicorn in 2024?",
+      "choices": ["Krutrim", "Paytm", "Zomato", "PharmEasy"],
+      "answer": "Krutrim"
+    },
+    {
+      "question": "Which Indian city was ranked as the most liveable city in 2024?",
+      "choices": ["Pune", "Bangalore", "Hyderabad", "Chennai"],
+      "answer": "Bangalore"
+    }
+  ]

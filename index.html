@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <style>
+        /* Add your CSS styling here */
+        body { font-family: Arial, sans-serif; }
+        #quiz-container { max-width: 600px; margin: auto; padding: 20px; }
+        #question { font-size: 1.2em; }
+        .choices { list-style-type: none; padding: 0; }
+        .choices li { margin: 10px 0; }
+        #timer { font-size: 1.2em; }
+        #fullscreen-alert { display: none; background: rgba(0, 0, 0, 0.8); color: white; padding: 20px; text-align: center; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+    </style>
+</head>
+<body>
+    <div id="fullscreen-alert">
+        Please enable full-screen mode to take the quiz.
+        <button onclick="enableFullScreen()">Enable Fullscreen</button>
+    </div>
+    <div id="quiz-container">
+        <div id="timer">Time left: <span id="time-left">10:00</span></div>
+        <div id="question-container">
+            <div id="question"></div>
+            <ul id="choices" class="choices"></ul>
+        </div>
+        <button id="next-button" onclick="nextQuestion()">Next</button>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
